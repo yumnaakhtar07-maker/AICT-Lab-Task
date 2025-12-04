@@ -1,0 +1,42 @@
+.nav{
+    width:250px;
+    height:auto;
+    position:absolute;
+    top:2%;
+    left:0px;
+}
+body{
+    background:url("5.jpg");
+    background-sizer:cover;
+    padding: 3px;
+}
+.nav{
+    width:250px;
+    height:auto;
+    position:absolute;
+    top:2%;
+    left:0px;
+}
+.nav a{
+    width:350px;
+    height:50px;
+    margin:5px 0;
+    float:left;
+    display:inline-block;
+    background-color:black;
+    overflow:hidden;
+    font-family:verdana;
+    text-decoration:none;
+    font-size:28px;
+    margin-top:5px;
+    text-align:center;
+    line-height:;
+    color:white;
+}
+a:link,a:visited{
+    display:block;
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:black;
+    width:130px;
+}
